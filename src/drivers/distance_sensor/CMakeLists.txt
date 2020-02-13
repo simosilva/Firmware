@@ -33,7 +33,7 @@
 
 add_subdirectory(cm8jl65)
 add_subdirectory(leddar_one)
-add_subdirectory(ll40ls)
+#add_subdirectory(ll40ls) # TODO: split out LidarLitePWM that requires direct IO pin access
 add_subdirectory(mappydot)
 add_subdirectory(mb12xx)
 add_subdirectory(pga460)
